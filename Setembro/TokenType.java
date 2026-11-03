@@ -1,0 +1,3 @@
+public enum TokenType {
+    LPAREN, RPAREN, BOOLEAN, NUMBER, STRING, SYMBOL, ERROR, EOF
+}
